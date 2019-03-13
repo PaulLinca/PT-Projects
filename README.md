@@ -1,7 +1,7 @@
 # Programming Techniques Projects
 These are my assignments for the "Programming Techniques" laboratory.
 
-**Assignment 1 - Polynomial Processing System** <br/>
+**Assignment 1 - Polynomial Processing System - Inheritance** <br/>
 This assignment consists of developing an application which receives as input two polynomials represented by two strings and has as output a string containing the result of an arithmetic operation between the first two polynomials or just the first one, thus the output is also a polynomial. The arithmetic operations that will be implemented are: addition, subtraction, multiplication, division, differentiation and integration. <br/>
 
 **Assignment 2 - Queue Simulation - Queues and Multithreading** <br/>
