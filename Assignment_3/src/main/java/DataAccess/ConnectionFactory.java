@@ -14,7 +14,7 @@ public class ConnectionFactory
 	private static final String DRIVER = "com.mysql.jdbc.Driver";
 	private static final String DBURL = "jdbc:mysql://localhost:3306/Assignment3";
 	private static final String USER = "root";
-	private static final String PASS = "Iwantlol2";
+	private static final String PASS = "password";
 	
 	private Connection connection;
 	
